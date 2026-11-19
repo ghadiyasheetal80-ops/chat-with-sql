@@ -1,0 +1,14 @@
+.venv/
+__pycache__/
+*.pyc
+.pytest_cache/
+.coverage
+*.db-journal
+*.db-wal
+.DS_Store
+college.db
+.env
+.env.local
+.streamlit/secrets.toml
+*.key
+*.pem
